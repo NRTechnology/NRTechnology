@@ -187,8 +187,8 @@ Terbuka untuk kolaborasi, diskusi teknis, riset, dan pengembangan solusi teknolo
 **Hendrawan Aprillia Ashari, S.T., M.Kom.**
 
 - GitHub: [@NRTechnology](https://github.com/NRTechnology)
-- LinkedIn: Add your LinkedIn profile
-- Website: Add your portfolio website
+- LinkedIn: [Hendrawan](https://www.linkedin.com/in/hendrawan-ashari-ab147774/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bgj45VGLMQCaVgPCtUp%2FjDw%3D%3D)
+- Website: [Blog](https://nrtechnology.github.io/Blog/)
 
 ---
 
