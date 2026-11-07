@@ -1,3 +1,12 @@
+<div align="center">
+  <img
+    src="assets/nrtechnology-banner.png"
+    alt="NR Technology - Different by Design"
+    width="100%"
+  />
+</div>
+
+<br/>
 # 👋 Hi, I'm Hendrawan Aprillia Ashari
 
 ### IT Infrastructure Engineer · Cybersecurity Engineer · Software Developer
